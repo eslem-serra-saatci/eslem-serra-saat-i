@@ -1,1 +1,0 @@
-# eslem-serra-saatci
