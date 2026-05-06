@@ -10,11 +10,13 @@ Coral ROV: Ana sistemimizin geliştirme süreçlerinde aktif rol alıyorum.
 Coral Mini ROV: Kompakt platformumuzun yazılım ve görüntü işleme entegrasyonu üzerine çalışıyorum.
 
 🛠️ Nelerle Uğraşıyorum?
+
 Yazılım & Algoritma: Python ve C# dillerini kullanarak verimli yazılım çözümleri ve algoritmalar geliştiriyorum.
 
 Görüntü İşleme: OpenCV ve YOLO kütüphaneleriyle gerçek zamanlı nesne tespiti, sınıflandırma ve otonom sistemler için veri işleme algoritmaları üzerinde çalışıyorum.
 
 📬 İletişim
+
 Benimle iletişime geçmek isterseniz:
 
 LinkedIn: https://www.linkedin.com/in/eslem-serra-saatci-030978386/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BoRjdM1iiSIq00cnm22FcsA%3D%3D
