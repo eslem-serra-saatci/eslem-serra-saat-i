@@ -2,6 +2,7 @@ Selam, Ben Eslem Serra Saatci!
 Afyon Kocatepe Üniversitesinde Bilgisayar Mühendisliği öğrencisiyim. Teknolojiye olan ilgim, küçük yaşlarda bilgisayarlarla uğraşmaya başlamamla ortaya çıktı. Bugün ise yazılım geliştirme, yapay zekâ ve otonom sistemler üzerine kendimi geliştirmeye odaklanıyorum. Şu an vaktimi, su altı teknolojileri ve otonom sistemler üzerine yapılan çalışmalara ayırıyorum.
 
 🌊 AquaTeam ile Su Altında Otonom Çözümler
+
 13 kişilik AquaTeam ekibinin bir parçası olarak su altı teknolojileri geliştiriyoruz:
 
 Coral ROV: Ana sistemimizin geliştirme süreçlerinde aktif rol alıyorum.
